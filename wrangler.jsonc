@@ -10,6 +10,12 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
+  "routes": [
+    {
+      "pattern": "s.ol.mr",
+      "custom_domain": true
+    }
+  ],
   "keep_vars": true,
   "upload_source_maps": true,
   "ai": {
